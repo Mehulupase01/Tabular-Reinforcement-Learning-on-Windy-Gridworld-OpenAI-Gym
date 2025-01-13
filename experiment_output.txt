@@ -1,0 +1,2 @@
+Mean reward per timestep under optimal policy: 4.9411764705882355
+Final V-value for state 3: 82.92852658081895
