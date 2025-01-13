@@ -1,0 +1,2 @@
+# Tabular-based Reinforcement Learning in Windy Gridworld: Dynamic Programming, Q-learning, SARSA, and Exploration Strategies
+ This project investigates tabular-based reinforcement learning using the Windy Gridworld environment. It explores various algorithms like Dynamic Programming (DP), Q-learning, SARSA, and Monte Carlo, comparing their performance with different exploration strategies (ε-greedy vs. softmax) and backup depths (1-step, n-step). The goal is to study the balance between exploration and exploitation in reinforcement learning
